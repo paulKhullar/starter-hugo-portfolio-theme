@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Motivated Journalist writing news and features around energy and geopolitics. A list of my recent publications are listed below'
+interests: 'Motivated Journalist writing news and features around energy and geopolitics. A list of my recent publications are listed below'
 
 
 
