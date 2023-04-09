@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Journalist specialising in energy
+#bio:  Journalist specialising in energy
 
 
 
