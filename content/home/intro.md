@@ -18,3 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
+Journalist writing news and features specialising in energy and geopolitics. My recent publications can be found below:
+
