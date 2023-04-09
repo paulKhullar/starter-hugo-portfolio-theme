@@ -1,5 +1,5 @@
 ---
-title: Recommendation Systems
+title: “A ‘frozen’ geopolitical issue” - Svalbard and the geopolitics of Arctic mining
 summary: Write about your project here...
 tags:
   - ML
