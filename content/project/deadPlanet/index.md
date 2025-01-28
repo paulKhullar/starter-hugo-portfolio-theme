@@ -1,5 +1,5 @@
 ---
-title: ‘No business on a dead planet’: the businesses incorporating nature into growth
+title: No business on a dead planet, the businesses incorporating nature into growth
 #
 #tags:
 #  - ML
