@@ -1,5 +1,5 @@
 ---
-title: COP29: Will the UK cough up on international climate finance?
+title: COP29: Will the UK cough up on international climate finance
 #summary: Write about your project here...
 #
 #tags:
