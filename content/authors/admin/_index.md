@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-interests: 'Motivated Journalist writing news and features around energy and geopolitics. A list of my recent publications are listed below'
+interests: 'Sustainablility reporter at the Financial Times. A list of my recent publications are listed below'
 
 
 
